@@ -24,9 +24,15 @@
     
     Constraints:
         * The number of nodes in the tree is in the range [1, 5000].
+<<<<<<< HEAD
         * 1 <= Node.val <= 10^7
         * root is a binary search tree.
         * 1 <= val <= 10^7
+=======
+        * 1 <= Node.val <= 107
+        * root is a binary search tree.
+        * 1 <= val <= 107
+>>>>>>> 08586425e1cf2c5d5015072df76f3b172eb4d178
 */
 
 /**
